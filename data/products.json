@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "P001",
+    "name": "SmartPhone X1",
+    "category": "Electronics",
+    "brand": "TechNova",
+    "price": "Rs.29999",
+    "description": "Flagship smartphone with AI-powered camera and 5G support.",
+    "features": "6.5-inch AMOLED display, 5G connectivity, 128GB storage, 5000mAh battery, 64MP AI camera",
+    "warranty": "1 year manufacturer warranty",
+    "return_policy": "10-day return if unused and in original packaging",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P002",
+    "name": "SmartPhone X2",
+    "category": "Electronics",
+    "brand": "TechNova",
+    "price": "Rs.19999",
+    "description": "Mid-range smartphone with long battery life and large display.",
+    "features": "6.7-inch LCD display, 4G LTE, 64GB storage, 6000mAh battery, 48MP camera",
+    "warranty": "1 year manufacturer warranty",
+    "return_policy": "7-day return if unused",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P003",
+    "name": "LaptopPro Z5",
+    "category": "Computers",
+    "brand": "CompuEdge",
+    "price": "Rs.75000",
+    "description": "High-performance laptop for developers and designers.",
+    "features": "15.6-inch FHD IPS display, Intel i7 12th Gen, 16GB RAM, 512GB SSD, NVIDIA GTX 1650",
+    "warranty": "2 years manufacturer warranty + 1 year extended warranty available",
+    "return_policy": "15-day return if unopened",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P004",
+    "name": "BudgetBook A3",
+    "category": "Computers",
+    "brand": "CompuEdge",
+    "price": "Rs.32000",
+    "description": "Affordable laptop ideal for students and everyday tasks.",
+    "features": "14-inch HD display, Intel Celeron, 8GB RAM, 256GB SSD, Windows 11 Home",
+    "warranty": "1 year manufacturer warranty",
+    "return_policy": "10-day return if unused",
+    "stock_status": "Limited Stock"
+  },
+  {
+    "product_id": "P005",
+    "name": "FrostCool Refrigerator 350L",
+    "category": "Home Appliances",
+    "brand": "CoolTech",
+    "price": "Rs.35000",
+    "description": "Energy-efficient double-door refrigerator with frost-free technology.",
+    "features": "350L capacity, Frost-free, 5-star energy rating, Inverter compressor, Toughened glass shelves",
+    "warranty": "1 year comprehensive + 10 years compressor warranty",
+    "return_policy": "No return after installation; exchange within 3 days if defective",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P006",
+    "name": "AirWave AC 1.5 Ton",
+    "category": "Home Appliances",
+    "brand": "CoolTech",
+    "price": "Rs.42000",
+    "description": "Inverter split AC with Wi-Fi control and auto-clean function.",
+    "features": "1.5 Ton capacity, 5-star BEE rating, Wi-Fi enabled, Auto-clean, Turbo Cool mode",
+    "warranty": "1 year product + 5 years compressor warranty",
+    "return_policy": "No return after installation; report defects within 48 hours",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P007",
+    "name": "RunnerMax Sports Shoes",
+    "category": "Footwear",
+    "brand": "StridePro",
+    "price": "Rs.3499",
+    "description": "Lightweight running shoes with cushioned sole and breathable mesh upper.",
+    "features": "Breathable mesh upper, EVA cushioned midsole, Anti-slip rubber outsole, Sizes 6-12",
+    "warranty": "6 months warranty against manufacturing defects",
+    "return_policy": "30-day return if unworn with original tags",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P008",
+    "name": "SoundBoom Wireless Earbuds",
+    "category": "Electronics",
+    "brand": "AudioX",
+    "price": "Rs.4999",
+    "description": "True wireless earbuds with active noise cancellation and 30-hour battery life.",
+    "features": "ANC, 30hr total battery, IPX5 water resistance, Bluetooth 5.3, Touch controls",
+    "warranty": "1 year warranty",
+    "return_policy": "10-day return if unused",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P009",
+    "name": "SmartWatch V10",
+    "category": "Electronics",
+    "brand": "TechNova",
+    "price": "Rs.8999",
+    "description": "Advanced smartwatch with health monitoring and GPS tracking.",
+    "features": "1.4-inch AMOLED display, GPS, Heart rate, SpO2, Sleep tracking, 7-day battery",
+    "warranty": "1 year warranty",
+    "return_policy": "10-day return if unused",
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "P010",
+    "name": "CottonComfort T-Shirt",
+    "category": "Clothing",
+    "brand": "WearWell",
+    "price": "Rs.599",
+    "description": "100% cotton unisex t-shirt available in multiple colors.",
+    "features": "100% cotton, Pre-shrunk, Machine washable, Sizes XS to 3XL, 8 color options",
+    "warranty": "No warranty (clothing)",
+    "return_policy": "15-day return if unwashed with original tags",
+    "stock_status": "In Stock"
+  }
+]

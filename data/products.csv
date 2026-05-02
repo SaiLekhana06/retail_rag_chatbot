@@ -1,0 +1,11 @@
+product_id,name,category,brand,price,description,features,warranty,return_policy,stock_status
+P001,SmartPhone X1,Electronics,TechNova,Rs.29999,Flagship smartphone with AI-powered camera,"6.5-inch AMOLED, 5G, 128GB, 5000mAh battery, 64MP camera",1 year manufacturer warranty,10-day return if unused,In Stock
+P002,SmartPhone X2,Electronics,TechNova,Rs.19999,Mid-range smartphone with long battery,"6.7-inch LCD, 4G LTE, 64GB, 6000mAh battery, 48MP camera",1 year manufacturer warranty,7-day return if unused,In Stock
+P003,LaptopPro Z5,Computers,CompuEdge,Rs.75000,High-performance laptop for developers,"15.6-inch FHD, Intel i7, 16GB RAM, 512GB SSD, GTX 1650",2 years warranty + 1 year extended,15-day return if unopened,In Stock
+P004,BudgetBook A3,Computers,CompuEdge,Rs.32000,Affordable student laptop,"14-inch HD, Celeron, 8GB RAM, 256GB SSD, Win11",1 year manufacturer warranty,10-day return if unused,Limited Stock
+P005,FrostCool Refrigerator 350L,Home Appliances,CoolTech,Rs.35000,Frost-free double-door refrigerator,"350L, Frost-free, 5-star rating, Inverter compressor",1 year + 10 years compressor,No return after installation,In Stock
+P006,AirWave AC 1.5 Ton,Home Appliances,CoolTech,Rs.42000,Inverter split AC with Wi-Fi,"1.5 Ton, 5-star BEE, Wi-Fi, Auto-clean",1 year + 5 years compressor,No return after installation,In Stock
+P007,RunnerMax Sports Shoes,Footwear,StridePro,Rs.3499,Lightweight running shoes,"Mesh upper, EVA midsole, Sizes 6-12",6 months manufacturing defects,30-day return if unworn,In Stock
+P008,SoundBoom Wireless Earbuds,Electronics,AudioX,Rs.4999,True wireless earbuds with ANC,"ANC, 30hr battery, IPX5, BT 5.3",1 year warranty,10-day return if unused,In Stock
+P009,SmartWatch V10,Electronics,TechNova,Rs.8999,Smartwatch with GPS and health tracking,"AMOLED, GPS, HR, SpO2, 7-day battery",1 year warranty,10-day return if unused,In Stock
+P010,CottonComfort T-Shirt,Clothing,WearWell,Rs.599,100% cotton unisex t-shirt,"Pre-shrunk, machine wash, XS-3XL, 8 colors",No warranty,15-day return if unwashed,In Stock

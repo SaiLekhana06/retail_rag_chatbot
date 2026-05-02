@@ -1,0 +1,72 @@
+RETAIL PRODUCT KNOWLEDGE BASE
+================================
+ 
+Product: SmartPhone X1
+Brand: TechNova | Category: Electronics | Price: Rs.29999 | Stock: In Stock
+Description: Flagship smartphone with AI-powered camera and 5G support.
+Features: 6.5-inch AMOLED display, 5G connectivity, 128GB storage, 5000mAh battery, 64MP AI camera.
+Warranty: 1 year manufacturer warranty.
+Return Policy: 10-day return if unused and in original packaging.
+ 
+Product: SmartPhone X2
+Brand: TechNova | Category: Electronics | Price: Rs.19999 | Stock: In Stock
+Description: Mid-range smartphone with long battery life and large display.
+Features: 6.7-inch LCD display, 4G LTE, 64GB storage, 6000mAh battery, 48MP camera.
+Warranty: 1 year manufacturer warranty.
+Return Policy: 7-day return if unused.
+ 
+Product: LaptopPro Z5
+Brand: CompuEdge | Category: Computers | Price: Rs.75000 | Stock: In Stock
+Description: High-performance laptop for developers and designers.
+Features: 15.6-inch FHD IPS, Intel i7 12th Gen, 16GB RAM, 512GB SSD, NVIDIA GTX 1650.
+Warranty: 2 years manufacturer warranty + 1 year extended available.
+Return Policy: 15-day return if unopened.
+ 
+Product: BudgetBook A3
+Brand: CompuEdge | Category: Computers | Price: Rs.32000 | Stock: Limited Stock
+Description: Affordable laptop ideal for students and everyday tasks.
+Features: 14-inch HD display, Intel Celeron, 8GB RAM, 256GB SSD, Windows 11 Home.
+Warranty: 1 year manufacturer warranty.
+Return Policy: 10-day return if unused.
+ 
+Product: FrostCool Refrigerator 350L
+Brand: CoolTech | Category: Home Appliances | Price: Rs.35000 | Stock: In Stock
+Description: Energy-efficient double-door refrigerator with frost-free technology.
+Features: 350L capacity, Frost-free, 5-star energy rating, Inverter compressor.
+Warranty: 1 year comprehensive + 10 years compressor warranty.
+Return Policy: No return after installation; exchange within 3 days if defective.
+ 
+Product: AirWave AC 1.5 Ton
+Brand: CoolTech | Category: Home Appliances | Price: Rs.42000 | Stock: In Stock
+Description: Inverter split AC with Wi-Fi control and auto-clean function.
+Features: 1.5 Ton, 5-star BEE rating, Wi-Fi enabled, Auto-clean, Turbo Cool.
+Warranty: 1 year product + 5 years compressor warranty.
+Return Policy: No return after installation; report defects within 48 hours.
+ 
+Product: SoundBoom Wireless Earbuds
+Brand: AudioX | Category: Electronics | Price: Rs.4999 | Stock: In Stock
+Description: True wireless earbuds with active noise cancellation and 30-hour battery.
+Features: ANC, 30hr total battery, IPX5 water resistance, Bluetooth 5.3, Touch controls.
+Warranty: 1 year warranty.
+Return Policy: 10-day return if unused.
+ 
+Product: SmartWatch V10
+Brand: TechNova | Category: Electronics | Price: Rs.8999 | Stock: In Stock
+Description: Advanced smartwatch with health monitoring and GPS tracking.
+Features: 1.4-inch AMOLED, GPS, Heart rate, SpO2, Sleep tracking, 7-day battery.
+Warranty: 1 year warranty.
+Return Policy: 10-day return if unused.
+ 
+Product: RunnerMax Sports Shoes
+Brand: StridePro | Category: Footwear | Price: Rs.3499 | Stock: In Stock
+Description: Lightweight running shoes with cushioned sole and breathable mesh.
+Features: Breathable mesh upper, EVA midsole, Anti-slip rubber outsole, Sizes 6-12.
+Warranty: 6 months against manufacturing defects.
+Return Policy: 30-day return if unworn with original tags.
+ 
+Product: CottonComfort T-Shirt
+Brand: WearWell | Category: Clothing | Price: Rs.599 | Stock: In Stock
+Description: 100% cotton unisex t-shirt in multiple colors.
+Features: Pre-shrunk, Machine washable, Sizes XS to 3XL, 8 color options.
+Warranty: No warranty.
+Return Policy: 15-day return if unwashed with original tags.
