@@ -8,6 +8,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
  
 load_dotenv()   # Load GEMINI_API_KEY from .env file
+api_key = os.getenv("GEMINI_API_KEY") 
  
 # ── Configuration ──────────────────────────────────────────────────────────
 GEMINI_MODEL   = "gemini-2.5-flash-lite"
