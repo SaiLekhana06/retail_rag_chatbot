@@ -4,17 +4,18 @@ for a given user query using semantic similarity search.
 """
  
 import os
-import pickle
+import json
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
- 
-# ── Configuration ──────────────────────────────────────────────────────────
-VECTOR_STORE_DIR = "vector_store"
+
+# ── Paths (absolute so Streamlit Cloud finds them) ──
+BASE_DIR         = os.path.dirname(os.path.abspath(__file__))
+VECTOR_STORE_DIR = os.path.join(BASE_DIR, "vector_store")
 FAISS_INDEX_PATH = os.path.join(VECTOR_STORE_DIR, "products.index")
-CHUNKS_PATH      = os.path.join(VECTOR_STORE_DIR, "chunks.pkl")
+CHUNKS_PATH      = os.path.join(VECTOR_STORE_DIR, "chunks.json")  # ← JSON not pkl
 EMBEDDING_MODEL  = "all-MiniLM-L6-v2"
-TOP_K            = 3   # Number of relevant chunks to retrieve per query
+TOP_K            = 3
  
  
 class Retriever:
@@ -32,8 +33,8 @@ class Retriever:
         print("Loading FAISS index...")
         self.index = faiss.read_index(FAISS_INDEX_PATH)
  
-        with open(CHUNKS_PATH, "rb") as f:
-            self.chunks = pickle.load(f)
+        with open(CHUNKS_PATH, "r", encoding="utf-8") as f:
+            self.chunks = json.load(f)
  
         print(f"Loading embedding model: {EMBEDDING_MODEL}...")
         self.model = SentenceTransformer(EMBEDDING_MODEL)
@@ -70,3 +71,4 @@ class Retriever:
             results.append(chunk)
  
         return results
+

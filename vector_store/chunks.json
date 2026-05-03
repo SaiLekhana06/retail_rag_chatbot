@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Product: SmartPhone X1 (ID: P001)\nCategory: Electronics | Brand: TechNova | Price: Rs.29999 | Stock: In Stock\nDescription: Flagship smartphone with AI-powered camera and 5G support.\nFeatures: 6.5-inch AMOLED display, 5G connectivity, 128GB storage, 5000mAh battery, 64MP AI camera\nWarranty: 1 year manufacturer warranty\nReturn Policy: 10-day return if unused and in original packaging",
+    "source": "products.json",
+    "product_id": "P001",
+    "name": "SmartPhone X1"
+  },
+  {
+    "text": "Product: SmartPhone X2 (ID: P002)\nCategory: Electronics | Brand: TechNova | Price: Rs.19999 | Stock: In Stock\nDescription: Mid-range smartphone with long battery life and large display.\nFeatures: 6.7-inch LCD display, 4G LTE, 64GB storage, 6000mAh battery, 48MP camera\nWarranty: 1 year manufacturer warranty\nReturn Policy: 7-day return if unused",
+    "source": "products.json",
+    "product_id": "P002",
+    "name": "SmartPhone X2"
+  },
+  {
+    "text": "Product: LaptopPro Z5 (ID: P003)\nCategory: Computers | Brand: CompuEdge | Price: Rs.75000 | Stock: In Stock\nDescription: High-performance laptop for developers and designers.\nFeatures: 15.6-inch FHD IPS display, Intel i7 12th Gen, 16GB RAM, 512GB SSD, NVIDIA GTX 1650\nWarranty: 2 years manufacturer warranty + 1 year extended warranty available\nReturn Policy: 15-day return if unopened",
+    "source": "products.json",
+    "product_id": "P003",
+    "name": "LaptopPro Z5"
+  },
+  {
+    "text": "Product: BudgetBook A3 (ID: P004)\nCategory: Computers | Brand: CompuEdge | Price: Rs.32000 | Stock: Limited Stock\nDescription: Affordable laptop ideal for students and everyday tasks.\nFeatures: 14-inch HD display, Intel Celeron, 8GB RAM, 256GB SSD, Windows 11 Home\nWarranty: 1 year manufacturer warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.json",
+    "product_id": "P004",
+    "name": "BudgetBook A3"
+  },
+  {
+    "text": "Product: FrostCool Refrigerator 350L (ID: P005)\nCategory: Home Appliances | Brand: CoolTech | Price: Rs.35000 | Stock: In Stock\nDescription: Energy-efficient double-door refrigerator with frost-free technology.\nFeatures: 350L capacity, Frost-free, 5-star energy rating, Inverter compressor, Toughened glass shelves\nWarranty: 1 year comprehensive + 10 years compressor warranty\nReturn Policy: No return after installation; exchange within 3 days if defective",
+    "source": "products.json",
+    "product_id": "P005",
+    "name": "FrostCool Refrigerator 350L"
+  },
+  {
+    "text": "Product: AirWave AC 1.5 Ton (ID: P006)\nCategory: Home Appliances | Brand: CoolTech | Price: Rs.42000 | Stock: In Stock\nDescription: Inverter split AC with Wi-Fi control and auto-clean function.\nFeatures: 1.5 Ton capacity, 5-star BEE rating, Wi-Fi enabled, Auto-clean, Turbo Cool mode\nWarranty: 1 year product + 5 years compressor warranty\nReturn Policy: No return after installation; report defects within 48 hours",
+    "source": "products.json",
+    "product_id": "P006",
+    "name": "AirWave AC 1.5 Ton"
+  },
+  {
+    "text": "Product: RunnerMax Sports Shoes (ID: P007)\nCategory: Footwear | Brand: StridePro | Price: Rs.3499 | Stock: In Stock\nDescription: Lightweight running shoes with cushioned sole and breathable mesh upper.\nFeatures: Breathable mesh upper, EVA cushioned midsole, Anti-slip rubber outsole, Sizes 6-12\nWarranty: 6 months warranty against manufacturing defects\nReturn Policy: 30-day return if unworn with original tags",
+    "source": "products.json",
+    "product_id": "P007",
+    "name": "RunnerMax Sports Shoes"
+  },
+  {
+    "text": "Product: SoundBoom Wireless Earbuds (ID: P008)\nCategory: Electronics | Brand: AudioX | Price: Rs.4999 | Stock: In Stock\nDescription: True wireless earbuds with active noise cancellation and 30-hour battery life.\nFeatures: ANC, 30hr total battery, IPX5 water resistance, Bluetooth 5.3, Touch controls\nWarranty: 1 year warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.json",
+    "product_id": "P008",
+    "name": "SoundBoom Wireless Earbuds"
+  },
+  {
+    "text": "Product: SmartWatch V10 (ID: P009)\nCategory: Electronics | Brand: TechNova | Price: Rs.8999 | Stock: In Stock\nDescription: Advanced smartwatch with health monitoring and GPS tracking.\nFeatures: 1.4-inch AMOLED display, GPS, Heart rate, SpO2, Sleep tracking, 7-day battery\nWarranty: 1 year warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.json",
+    "product_id": "P009",
+    "name": "SmartWatch V10"
+  },
+  {
+    "text": "Product: CottonComfort T-Shirt (ID: P010)\nCategory: Clothing | Brand: WearWell | Price: Rs.599 | Stock: In Stock\nDescription: 100% cotton unisex t-shirt available in multiple colors.\nFeatures: 100% cotton, Pre-shrunk, Machine washable, Sizes XS to 3XL, 8 color options\nWarranty: No warranty (clothing)\nReturn Policy: 15-day return if unwashed with original tags",
+    "source": "products.json",
+    "product_id": "P010",
+    "name": "CottonComfort T-Shirt"
+  },
+  {
+    "text": "Product: SmartPhone X1 (ID: P001)\nCategory: Electronics | Brand: TechNova | Price: Rs.29999 | Stock: In Stock\nDescription: Flagship smartphone with AI-powered camera\nFeatures: 6.5-inch AMOLED, 5G, 128GB, 5000mAh battery, 64MP camera\nWarranty: 1 year manufacturer warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.csv",
+    "product_id": "P001",
+    "name": "SmartPhone X1"
+  },
+  {
+    "text": "Product: SmartPhone X2 (ID: P002)\nCategory: Electronics | Brand: TechNova | Price: Rs.19999 | Stock: In Stock\nDescription: Mid-range smartphone with long battery\nFeatures: 6.7-inch LCD, 4G LTE, 64GB, 6000mAh battery, 48MP camera\nWarranty: 1 year manufacturer warranty\nReturn Policy: 7-day return if unused",
+    "source": "products.csv",
+    "product_id": "P002",
+    "name": "SmartPhone X2"
+  },
+  {
+    "text": "Product: LaptopPro Z5 (ID: P003)\nCategory: Computers | Brand: CompuEdge | Price: Rs.75000 | Stock: In Stock\nDescription: High-performance laptop for developers\nFeatures: 15.6-inch FHD, Intel i7, 16GB RAM, 512GB SSD, GTX 1650\nWarranty: 2 years warranty + 1 year extended\nReturn Policy: 15-day return if unopened",
+    "source": "products.csv",
+    "product_id": "P003",
+    "name": "LaptopPro Z5"
+  },
+  {
+    "text": "Product: BudgetBook A3 (ID: P004)\nCategory: Computers | Brand: CompuEdge | Price: Rs.32000 | Stock: Limited Stock\nDescription: Affordable student laptop\nFeatures: 14-inch HD, Celeron, 8GB RAM, 256GB SSD, Win11\nWarranty: 1 year manufacturer warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.csv",
+    "product_id": "P004",
+    "name": "BudgetBook A3"
+  },
+  {
+    "text": "Product: FrostCool Refrigerator 350L (ID: P005)\nCategory: Home Appliances | Brand: CoolTech | Price: Rs.35000 | Stock: In Stock\nDescription: Frost-free double-door refrigerator\nFeatures: 350L, Frost-free, 5-star rating, Inverter compressor\nWarranty: 1 year + 10 years compressor\nReturn Policy: No return after installation",
+    "source": "products.csv",
+    "product_id": "P005",
+    "name": "FrostCool Refrigerator 350L"
+  },
+  {
+    "text": "Product: AirWave AC 1.5 Ton (ID: P006)\nCategory: Home Appliances | Brand: CoolTech | Price: Rs.42000 | Stock: In Stock\nDescription: Inverter split AC with Wi-Fi\nFeatures: 1.5 Ton, 5-star BEE, Wi-Fi, Auto-clean\nWarranty: 1 year + 5 years compressor\nReturn Policy: No return after installation",
+    "source": "products.csv",
+    "product_id": "P006",
+    "name": "AirWave AC 1.5 Ton"
+  },
+  {
+    "text": "Product: RunnerMax Sports Shoes (ID: P007)\nCategory: Footwear | Brand: StridePro | Price: Rs.3499 | Stock: In Stock\nDescription: Lightweight running shoes\nFeatures: Mesh upper, EVA midsole, Sizes 6-12\nWarranty: 6 months manufacturing defects\nReturn Policy: 30-day return if unworn",
+    "source": "products.csv",
+    "product_id": "P007",
+    "name": "RunnerMax Sports Shoes"
+  },
+  {
+    "text": "Product: SoundBoom Wireless Earbuds (ID: P008)\nCategory: Electronics | Brand: AudioX | Price: Rs.4999 | Stock: In Stock\nDescription: True wireless earbuds with ANC\nFeatures: ANC, 30hr battery, IPX5, BT 5.3\nWarranty: 1 year warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.csv",
+    "product_id": "P008",
+    "name": "SoundBoom Wireless Earbuds"
+  },
+  {
+    "text": "Product: SmartWatch V10 (ID: P009)\nCategory: Electronics | Brand: TechNova | Price: Rs.8999 | Stock: In Stock\nDescription: Smartwatch with GPS and health tracking\nFeatures: AMOLED, GPS, HR, SpO2, 7-day battery\nWarranty: 1 year warranty\nReturn Policy: 10-day return if unused",
+    "source": "products.csv",
+    "product_id": "P009",
+    "name": "SmartWatch V10"
+  },
+  {
+    "text": "Product: CottonComfort T-Shirt (ID: P010)\nCategory: Clothing | Brand: WearWell | Price: Rs.599 | Stock: In Stock\nDescription: 100% cotton unisex t-shirt\nFeatures: Pre-shrunk, machine wash, XS-3XL, 8 colors\nWarranty: No warranty\nReturn Policy: 15-day return if unwashed",
+    "source": "products.csv",
+    "product_id": "P010",
+    "name": "CottonComfort T-Shirt"
+  }
+]

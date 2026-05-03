@@ -9,14 +9,14 @@ import csv
 import os
 import numpy as np
 import faiss
-import pickle
+import json
 from sentence_transformers import SentenceTransformer
  
 # ── Configuration ──────────────────────────────────────────────────────────
 DATA_DIR = "data"
 VECTOR_STORE_DIR = "vector_store"
 FAISS_INDEX_PATH = os.path.join(VECTOR_STORE_DIR, "products.index")
-CHUNKS_PATH = os.path.join(VECTOR_STORE_DIR, "chunks.pkl")
+CHUNKS_PATH = os.path.join(VECTOR_STORE_DIR, "chunks.json")
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"   # 384-dim, fast, free, runs locally
  
 os.makedirs(VECTOR_STORE_DIR, exist_ok=True)
@@ -130,8 +130,8 @@ def main():
  
     # 5. Save index and chunks to disk
     faiss.write_index(index, FAISS_INDEX_PATH)
-    with open(CHUNKS_PATH, "wb") as f:
-        pickle.dump(all_chunks, f)
+    with open(CHUNKS_PATH, "w", encoding="utf-8") as f:
+        json.dump(all_chunks, f, ensure_ascii=False, indent=2)
  
     print(f"Vector store saved to '{VECTOR_STORE_DIR}/'.")
     print("Ingestion complete! You can now run: streamlit run app.py")
