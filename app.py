@@ -4,13 +4,8 @@ Run with: streamlit run app.py
 Requires: python ingest.py must be run first to build the vector store.
 """
  
-import os
-from dotenv import load_dotenv
-
-load_dotenv()  # 👈 THIS is missing
-
-import streamlit as st
-from retriever import Retriever
+import streamlit as st 
+from retriever import Retriever 
 from generator import generate_response
  
 # ── Page Configuration ─────────────────────────────────────────────────────
